@@ -7,6 +7,8 @@
   </a>
 </p>
 
+### Original MS Documentation
+
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-company-communicator-app/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-company-communicator-app/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-company-communicator-app/wiki/Solution-overview) |
 | ---- | ---- | ---- |
 
